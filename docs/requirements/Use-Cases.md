@@ -109,22 +109,22 @@ Return empty list.
 
 # UC-004 – Place Order
 
-Customer
-│
-▼
-Order Service
-│
-▼
-Inventory Service
-│
-▼
-Payment Service
-│
-▼
-Kafka
-│
-▼
-Notification Service
+    Customer
+        │
+        ▼
+    Order Service
+        │
+        ▼
+    Inventory Service
+        │
+        ▼
+    Payment Service
+        │
+        ▼
+    Kafka
+        │
+        ▼
+    Notification Service
 
 ## Goal
 
