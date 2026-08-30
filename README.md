@@ -28,9 +28,9 @@ The project focuses on:
 
 ✅ Repository Initialized
 
-⬜ Product Vision
+✅ Product Vision
 
-⬜ Requirements
+✅ Requirements
 
 ⬜ High Level Design
 
