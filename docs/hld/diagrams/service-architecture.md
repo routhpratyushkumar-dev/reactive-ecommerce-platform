@@ -1,3 +1,7 @@
+# Service Diagram
+
+```mermaid
+
     flowchart TB
 
         Client[Customer / Admin]
@@ -34,3 +38,5 @@
     
         Kafka --> Notification
         Kafka --> Analytics
+
+```
